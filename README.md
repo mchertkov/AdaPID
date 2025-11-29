@@ -2,14 +2,14 @@
 
 This repository contains the Jupyter/Python code used to generate all figures in the paper:
 
-**“Adaptive Path-Integral Diffusion (AdaPID)”  
-M. Chertkov and H. Behjoo (2025)**
+**“Adaptive Path-Integral Diffusion (AdaPID)”**  
+Michael (Misha) Chertkov and Hamirdreza Behjoo, University of Arizona
+(see PDF in this repository + soon on arXiv)
 
 ## Contents
-- Python modules implementing the AdaPID solver  
+- `guidedpid_api/` — Python modules implementing the AdaPID solver  
 - Jupyter notebooks generating all figures appearing in the paper  
-- Utilities for Gaussian-mixture targets, Green-function oracles, and QoS diagnostics  
-- Scripts for reproducing constant-β and piece-wise-constant-β schedules
+
 
 ## Usage
 Clone the repository:
